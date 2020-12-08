@@ -294,7 +294,7 @@ a.light:active {
   padding: 20px 20px 20px 20px;
   max-width: 640px;
   overflow: auto;
-  background-color: #f7f9fb;
+  background-color: #E7EEF5;
   border-radius: 6px;
 }
 
@@ -438,7 +438,7 @@ ol {
 }
 
 .quote-none {
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 600;
   color: #8c98a8;
   text-align: center;
