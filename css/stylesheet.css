@@ -10,7 +10,7 @@ Header: #687a8f;
 body {
   background-color: #ffffff;
   font-size: 15px;
-  font-weight: 400;
+  font-weight: 300;
   color: #2a4769;
   padding: 0px;
   margin: 0px;
@@ -425,7 +425,7 @@ ol {
 }
 
 .thicker {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .larger {
@@ -449,7 +449,7 @@ ol {
 .quote {
   font-size: 28px;
   font-style: italic;
-  font-weight: 600;
+  font-weight: 500;
   color: #8c98a8;
   text-align: center;
   margin: auto 0px auto 0px;
@@ -458,7 +458,7 @@ ol {
 .quote-sm {
   font-size: 20px;
   font-style: italic;
-  font-weight: 600;
+  font-weight: 500;
   color: #8c98a8;
   text-align: center;
   margin: 20px 0px 0px 0px;
@@ -477,7 +477,7 @@ ol {
 .quote-light {
   font-size: 28px;
   font-style: italic;
-  font-weight: 600;
+  font-weight: 500;
   color: #f7f7f7;
   text-align: center;
   margin: auto 0px auto 0px;
@@ -486,7 +486,7 @@ ol {
 .quote-sm-light {
   font-size: 20px;
   font-style: italic;
-  font-weight: 600;
+  font-weight: 500;
   color: #f7f7f7;
   text-align: center;
   margin: 20px 0px 0px 0px;
@@ -590,7 +590,6 @@ ol {
     display: inline-block;
     vertical-align: bottom;
     width: 354px;
-    /* min-height: 400px; */
     float: left;
     margin: 40px 18px 40px 18px;
     border: 2px solid #E7EEF5;
@@ -633,12 +632,12 @@ ol {
     display: inline-block;
     vertical-align: bottom;
     width: 354px;
-    min-height: 400px;
     float: left;
-    margin: 0px 18px 0px 18px;
+    margin: 40px 18px 40px 18px;
     border: 2px solid #E7EEF5;
     border-radius: 6px;
     overflow: auto;
+    background-color: #ffffff;
   }
 }
 
@@ -674,12 +673,12 @@ ol {
     display: inline-block;
     vertical-align: bottom;
     width: 354px;
-    min-height: 400px;
     float: left;
-    margin: 0px 18px 0px 18px;
+    margin: 40px 18px 40px 18px;
     border: 2px solid #E7EEF5;
     border-radius: 6px;
     overflow: auto;
+    background-color: #ffffff;
   }
 }
 
@@ -716,12 +715,12 @@ ol {
     display: inline-block;
     vertical-align: bottom;
     width: 354px;
-    min-height: 400px;
     float: left;
-    margin: 20px auto;
+    margin: 40px 18px 40px 18px;
     border: 2px solid #E7EEF5;
     border-radius: 6px;
     overflow: auto;
+    background-color: #ffffff;
   }
 
 }
