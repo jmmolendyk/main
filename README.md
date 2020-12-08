@@ -1,4 +1,4 @@
 # main
 ---
-permalink: /index.html
+permalink: /index.htm
 ---
