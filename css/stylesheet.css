@@ -172,6 +172,7 @@ a.light:active {
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
   background-image: url("../images/bg-home-c.png");
+  background-color: #687a8f;
   height: 800px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
