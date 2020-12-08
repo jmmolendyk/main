@@ -1,1 +1,4 @@
 # main
+---
+permalink: /index.html
+---
