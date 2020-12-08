@@ -437,6 +437,15 @@ ol {
   font-weight: 500;
 }
 
+.quote-none {
+  font-size: 28px;
+  font-weight: 600;
+  color: #8c98a8;
+  text-align: center;
+  margin: auto 0px auto 0px;
+  padding: 30px 30px 0px 30px;
+}
+
 .quote {
   font-size: 28px;
   font-style: italic;
